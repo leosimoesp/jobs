@@ -1,4 +1,4 @@
-# Quero ser Confere!
+# Confere Jobs - Faça parte de nossa equipe!
 
 Nossa solução é um SaaS de Controle de Vendas com cartão de crédito e ticket. No ano de 2017, além de um crescimento exponencial, fomos acelerados pela Oxigênio e agora iremos participar da aceleração do Google Campus. 
 Atuamos com Python e NodeJS (backend), Jquery e Angular 4 (frontend). Procuramos profissionais que tenham sólidos conhecimentos de arquitetura e capacidade de pensar fora da caixa solucionando problemas de forma simples e rápida, levando-se em conta temas como segurança, tratamento de erros, separação de camadas/responsabilidades, performance, reusabilidade e aderência a padrões de projetos.
