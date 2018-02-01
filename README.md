@@ -72,14 +72,13 @@ PJ a combinar
 - NodeJS
 - Express
 - Sequelize
-- MySQL
+- MySQL ou Postgres
 - RESTFul API
 - Design Patterns
 - AWS
 
 **Desejáveis:**
 - Git/BitBucket
-- Google APIs
 - Redis
 - RabbitMQ
 - Docker
@@ -101,7 +100,6 @@ PJ a combinar
 
 **Desejáveis:**
 - Git/BitBucket
-- Google APIs
 - Docker
 - Agile/SCRUM
 
