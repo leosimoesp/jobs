@@ -10,7 +10,7 @@ Google Campus, São Paulo - SP | próximo ao metrô Brigadeiro
 
 ## Nossa empresa
 
-ASomos a Confere, uma fintech que possui um SaaS B2B que ajuda pequenas e médias empresas a controlar as suas vendas com cartões de crédito ajustar o seu fluxo de caixa. Fomos acelerados pela Oxigênio Aceleradora, com investimento da Porto Seguro e Plug and Play, e agora fomos selecionados no próximo programa de residência do Google Campus,  e buscamos formar uma equipe qualificada e multidisciplinar para atender a crescente demanda, com objetivo de construir soluções inovadoras, onde maior valor é o sucesso de nossos clientes.
+Somos a Confere, uma fintech que possui um SaaS B2B que ajuda pequenas e médias empresas a controlar as suas vendas com cartões de crédito ajustar o seu fluxo de caixa. Fomos acelerados pela Oxigênio Aceleradora, com investimento da Porto Seguro e Plug and Play, e agora fomos selecionados no próximo programa de residência do Google Campus,  e buscamos formar uma equipe qualificada e multidisciplinar para atender a crescente demanda, com objetivo de construir soluções inovadoras, onde maior valor é o sucesso de nossos clientes.
 
 Nós oferecemos um ambiente descontraído em que todos os membros possuem a liberdade e responsabilidade de criar as melhores soluções possíveis, isso contando com o suporte de todos os membros, do estagiário até o CEO.
 
