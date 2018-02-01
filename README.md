@@ -10,11 +10,11 @@ Google Campus, São Paulo - SP | próximo ao metrô Brigadeiro
 
 ## Nossa empresa
 
-Somos a Confere, uma fintech que possui um SaaS B2B que ajuda pequenas e médias empresas a controlar as suas vendas com cartões de crédito ajustar o seu fluxo de caixa. Fomos acelerados pela Oxigênio Aceleradora, com investimento da Porto Seguro e Plug and Play, e agora fomos selecionados no próximo programa de residência do Google Campus,  e buscamos formar uma equipe qualificada e multidisciplinar para atender a crescente demanda, com objetivo de construir soluções inovadoras, onde maior valor é o sucesso de nossos clientes.
+Somos a Confere Cartões, uma fintech que possui um SaaS B2B que ajuda pequenas e médias empresas a controlar as suas vendas com cartões de crédito ajustar o seu fluxo de caixa. Fomos acelerados pela Oxigênio Aceleradora, com investimento da Porto Seguro e Plug and Play, e agora fomos selecionados no próximo programa de residência do Google Campus,  e buscamos formar uma equipe qualificada e multidisciplinar para atender a crescente demanda, com objetivo de construir soluções inovadoras, onde maior valor é o sucesso de nossos clientes.
 
 Nós oferecemos um ambiente descontraído em que todos os membros possuem a liberdade e responsabilidade de criar as melhores soluções possíveis, isso contando com o suporte de todos os membros, do estagiário até o CEO.
 
-Se você quer fazer parte de uma fintech que está mudando a forma com que as empresas controlam suas vendas com cartões e a sua gestão financeira, venha com a Confere e faça parte dessa história.
+Se você quer fazer parte de uma fintech que está mudando a forma com que as empresas controlam suas vendas com cartões e a sua gestão financeira, venha com a Confere Cartões e faça parte dessa história.
 
 ## Aqui você irá
 
@@ -28,7 +28,7 @@ Se você quer fazer parte de uma fintech que está mudando a forma com que as em
 
 
 ### [Como me candidato?](id:ComoMeCandidato)
-1. Forka esse projeto, escolha um dos testes aleatórios do [DojoPuzzle](http://dojopuzzles.com/), resolva-o com sua linguagem favorita e nos envie um e-mail para **team@Confere.com.br** com o seu **fork** e o **link do problema** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
+1. Forka esse projeto, escolha um dos testes aleatórios do [DojoPuzzle](http://dojopuzzles.com/), resolva-o com sua linguagem favorita e nos envie um e-mail para **team@Conferecartoes.com.br** com o seu **fork** e o **link do problema** (link para o GitHub, BitBucket, tarball anexada, whatever). Junto do seu e-mail, adicione um link para seu curriculum, portfolio ou linkedin. Avaliaremos seu *fork* o quanto antes.<br />
 **Duração:** de 30m à 2h **
 
 2. Com hora marcada, um dos membros do nosso time entrará em contato com você por telefone ou Skype, para uma conversa descontraída sobre suas habilidades.<br />
